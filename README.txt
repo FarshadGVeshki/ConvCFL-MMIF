@@ -27,7 +27,7 @@ Medical images are taken from the Whole Brain Atlas database (Harvard medical sc
 Infrared-Visible image are taken from https://github.com/hli1221/imagefusion_resnet50/tree/master/IV_images
 
 %
-Reference : FG Veshki, SA Vorobyov, Coupled Feature Learning via Structured Convolutional Sparse Coding for Multimodal Image Fusion, ICASSP, May 2022.
+Reference : FG Veshki, SA Vorobyov, Coupled Feature Learning via Structured Convolutional Sparse Coding for Multimodal Image Fusion, Accepted for ICASSP, May 2022.
 
 
 
